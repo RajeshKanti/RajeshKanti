@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Rajesh Ghosh
+- 👋 Hi there!,
+
+I’m @Rajesh Ghosh
 - 👀 I’m a passoniate iOS Developer
 - 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on ...
